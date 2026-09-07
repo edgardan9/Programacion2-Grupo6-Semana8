@@ -24,6 +24,10 @@ public class Cliente {
         return correo;
     }
 
+    public void actualizarCorreo(String nuevoCorreo) {
+        this.correo = nuevoCorreo;
+    }
+
     public void mostrarInformacion() {
         System.out.println("ID: " + id);
         System.out.println("Nombre: " + nombre);
