@@ -10,7 +10,7 @@ Aplicar el uso de Git y GitHub mediante la creación de ramas, commits, Pull Req
 
 ## Proyecto
 
-El proyecto consiste en un sistema básico de gestión de clientes desarrollado en Java.
+El proyecto consiste en un sistema básico de gestión de clientes desarrollado en Java 21.
 
 ## Estructura del proyecto
 
